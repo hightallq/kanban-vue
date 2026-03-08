@@ -31,9 +31,9 @@ pnpm run dev
 
 ## Possible Improvements
 
--Column drag & drop
--Task editing animations
--Keyboard accessibility improvements
--Customizable themes
+- Column drag & drop
+- Task editing animations
+- Keyboard accessibility improvements
+- Customizable themes
 
 # THANK YOU FOR ATTENTION!
